@@ -4,9 +4,9 @@ Bubble Popper is an engaging and fast-paced game where players test their reflex
 
 ## Game Elements:
 
-Bubbles: Colorful bubbles with numbers ranging from 1 to 9 randomly appear on the screen.
-Timer: A countdown timer starts from 60 seconds, indicating the time left for the player to pop bubbles.
-Score: A score counter keeps track of the player's points, increasing with each correct bubble popped.
+- Bubbles: Colorful bubbles with numbers ranging from 1 to 9 randomly appear on the screen.
+- Timer: A countdown timer starts from 60 seconds, indicating the time left for the player to pop bubbles.
+- Score: A score counter keeps track of the player's points, increasing with each correct bubble popped.
 
 ## Gameplay:
 - At the start of the game, the player is presented with a grid filled with bubbles of random numbers.
